@@ -1,0 +1,7 @@
+{
+  "name": "console",
+  "version": "1.0.0",
+  "entrypoint": "app/console",
+  "required_capabilities": ["log", "ipc"],
+  "permissions": ["graphics"]
+}

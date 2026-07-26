@@ -1,0 +1,14 @@
+{
+  "name": "test-center",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "app/test-center",
+  "permissions": [
+    "log",
+    "ipc",
+    "graphics"
+  ],
+  "required_capabilities": [
+    "service.locate"
+  ]
+}

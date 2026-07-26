@@ -1,0 +1,14 @@
+{
+  "name": "demo-shell",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "bin/demo-shell",
+  "permissions": [
+    "log",
+    "ipc"
+  ],
+  "required_capabilities": [
+    "channel.open",
+    "service.locate"
+  ]
+}

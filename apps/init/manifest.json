@@ -1,0 +1,15 @@
+{
+  "name": "init-shell",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "svc/init-shell",
+  "permissions": [
+    "log",
+    "ipc",
+    "graphics"
+  ],
+  "required_capabilities": [
+    "channel.open",
+    "service.locate"
+  ]
+}

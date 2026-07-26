@@ -1,0 +1,13 @@
+{
+  "name": "diagnostics-view",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "app/diagnostics-view",
+  "permissions": [
+    "log",
+    "graphics"
+  ],
+  "required_capabilities": [
+    "service.locate"
+  ]
+}

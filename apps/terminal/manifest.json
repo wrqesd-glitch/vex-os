@@ -1,0 +1,14 @@
+{
+  "name": "terminal-console",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "app/terminal-console",
+  "permissions": [
+    "log",
+    "ipc",
+    "graphics"
+  ],
+  "required_capabilities": [
+    "channel.open"
+  ]
+}

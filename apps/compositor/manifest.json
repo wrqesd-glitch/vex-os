@@ -1,0 +1,14 @@
+{
+  "name": "compositor-service",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "svc/compositor",
+  "permissions": [
+    "log",
+    "graphics"
+  ],
+  "required_capabilities": [
+    "service.locate",
+    "gpu.device"
+  ]
+}

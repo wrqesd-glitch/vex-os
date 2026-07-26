@@ -1,0 +1,33 @@
+"filename", "language", "C", "JSON", "CMake", "C++", "CMake Cache", "YAML", "comment", "blank", "total"
+"v:\vex_os\CMakeLists.txt", "CMake", 0, 0, 67, 0, 0, 0, 0, 4, 71
+"v:\vex_os\apps\compositor\main.c", "C", -1, 0, 0, 0, 0, 0, 0, 0, -1
+"v:\vex_os\apps\init\desktop_app_runtime.c", "C", 10, 0, 0, 0, 0, 0, 0, 0, 10
+"v:\vex_os\apps\init\desktop_catalog.c", "C", 1, 0, 0, 0, 0, 0, 0, 0, 1
+"v:\vex_os\apps\init\desktop_catalog.h", "C++", 0, 0, 0, 1, 0, 0, 0, 0, 1
+"v:\vex_os\apps\init\desktop_domain.c", "C", 19, 0, 0, 0, 0, 0, 0, 0, 19
+"v:\vex_os\apps\init\desktop_registry.c", "C", 4, 0, 0, 0, 0, 0, 0, 0, 4
+"v:\vex_os\apps\init\desktop_shell_ui.c", "C", -14, 0, 0, 0, 0, 0, 0, 0, -14
+"v:\vex_os\apps\terminal2\main.c", "C", 307, 0, 0, 0, 0, 0, 0, 31, 338
+"v:\vex_os\apps\terminal2\manifest.json", "JSON", 0, 7, 0, 0, 0, 0, 0, 0, 7
+"v:\vex_os\boot\loader\src\main.c", "C", 14, 0, 0, 0, 0, 0, 0, 1, 15
+"v:\vex_os\build\CMakeCache.txt", "CMake Cache", 0, 0, 0, 0, -407, 0, 0, -95, -502
+"v:\vex_os\build\CMakeFiles\4.3.1\CMakeASM_NASMCompiler.cmake", "CMake", 0, 0, -26, 0, 0, 0, 0, -5, -31
+"v:\vex_os\build\CMakeFiles\4.3.1\CMakeCCompiler.cmake", "CMake", 0, 0, -68, 0, 0, 0, 0, -18, -86
+"v:\vex_os\build\CMakeFiles\4.3.1\CMakeCXXCompiler.cmake", "CMake", 0, 0, -82, 0, 0, 0, 0, -21, -103
+"v:\vex_os\build\CMakeFiles\4.3.1\CMakeRCCompiler.cmake", "CMake", 0, 0, -6, 0, 0, 0, 0, -1, -7
+"v:\vex_os\build\CMakeFiles\4.3.1\CMakeSystem.cmake", "CMake", 0, 0, -10, 0, 0, 0, 0, -6, -16
+"v:\vex_os\build\CMakeFiles\4.3.1\CompilerIdCXX\CMakeCXXCompilerId.cpp", "C++", 0, 0, 0, -729, 0, 0, -63, -158, -950
+"v:\vex_os\build\CMakeFiles\4.3.1\CompilerIdC\CMakeCCompilerId.c", "C", -711, 0, 0, 0, 0, 0, -62, -162, -935
+"v:\vex_os\build\CMakeFiles\CMakeConfigureLog.yaml", "YAML", 0, 0, 0, 0, 0, -10617, -4, -46, -10667
+"v:\vex_os\build\CMakeFiles\InstallScripts.json", "JSON", 0, -7, 0, 0, 0, 0, 0, -1, -8
+"v:\vex_os\build\CTestTestfile.cmake", "CMake", 0, 0, -10, 0, 0, 0, 0, -1, -11
+"v:\vex_os\build\boot\compositor_blob.c", "C", -1148, 0, 0, 0, 0, 0, 0, -3, -1151
+"v:\vex_os\build\boot\diag_blob.c", "C", -685, 0, 0, 0, 0, 0, 0, -3, -688
+"v:\vex_os\build\boot\gpu_blob.c", "C", -1398, 0, 0, 0, 0, 0, 0, -3, -1401
+"v:\vex_os\build\boot\init_blob.c", "C", -2787776, 0, 0, 0, 0, 0, 0, -3, -2787779
+"v:\vex_os\build\boot\kernel_blob.c", "C", -4098, 0, 0, 0, 0, 0, 0, -3, -4101
+"v:\vex_os\build\boot\services_blob.c", "C", -831, 0, 0, 0, 0, 0, 0, -3, -834
+"v:\vex_os\build\boot\terminal_blob.c", "C", -326, 0, 0, 0, 0, 0, 0, -3, -329
+"v:\vex_os\build\boot\tests_blob.c", "C", -521, 0, 0, 0, 0, 0, 0, -3, -524
+"v:\vex_os\build\cmake_install.cmake", "CMake", 0, 0, -54, 0, 0, 0, 0, -8, -62
+"Total", "-", -2797154, 0, -189, -728, -407, -10617, -129, -510, -2809734

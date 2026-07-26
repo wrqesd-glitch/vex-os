@@ -1,0 +1,14 @@
+{
+  "name": "gpu-service",
+  "version": "0.1.0",
+  "abi_version": 1,
+  "entrypoint": "svc/gpu",
+  "permissions": [
+    "log",
+    "graphics"
+  ],
+  "required_capabilities": [
+    "service.locate",
+    "gpu.device"
+  ]
+}
